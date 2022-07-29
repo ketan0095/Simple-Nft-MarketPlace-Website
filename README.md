@@ -39,7 +39,7 @@ A simple website for uploading &amp; accessing NFTs with support from Moralis Fr
 
 ### Metamask Sign in :
 
-![alt text](page 2.png)
+![alt text](2.png)
 ```
 1. If you have Metamask installed then it will promted to get permissions
 2. Make sure to select testnet account address while signing in , which must have sime ETH balance in int
@@ -49,13 +49,13 @@ A simple website for uploading &amp; accessing NFTs with support from Moralis Fr
 
 ### My Digital Assets :
 
-![alt text](page 3.png)
+![alt text](3.png)
 ```
 1. Once you successfully login , you can view all the NFTs attached to this respective address
 ```
 
 ### Mint NFT :
-![alt text](page 4.png)
+![alt text](4.png)
 
 ```
 1. Mention Name of NFT
@@ -80,7 +80,7 @@ A simple website for uploading &amp; accessing NFTs with support from Moralis Fr
 
 
 ### App Stucture :
-![alt text](page 5.png)
+![alt text](5.png)
 
 ### logic.js explanation :
 ```

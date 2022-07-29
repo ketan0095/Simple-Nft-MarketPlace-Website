@@ -30,7 +30,7 @@ A simple website for uploading &amp; accessing NFTs with support from Moralis Fr
 
 
 ### Home Page :
-![alt text](page 1.png)
+![alt text](1.png)
 
 ```
 1. Enter Username & Email-id (optional)
